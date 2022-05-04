@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Доклад на конференции в мае'
 authors:
   - admin
   - Robert Ford
@@ -62,9 +62,14 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides:
 ---
+### Наш проект
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+<div class="flourish-embed" data-src="story/1229859"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+### Наш постер
+
+<iframe width="800" height="2342" frameborder="0"scrolling="no" style="overflow-y:hidden;" src="https://create.piktochart.com/embed/58355558-my-visual" ></iframe>
+
+### Дашборд
+
+https://datalens.yandex/n0lwxdfunsvyf

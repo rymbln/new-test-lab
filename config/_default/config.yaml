@@ -3,8 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Наша новая лаборатория # Website name
+baseURL: 'https://rymbln.github.io/new-test-lab/' # Website URL
+publishDir: docs
 
 ############################
 ## LANGUAGE
